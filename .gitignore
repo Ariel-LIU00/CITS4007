@@ -1,0 +1,4 @@
+data/*.txt
+data/*.tsv
+data/*.xlsx
+.DS_Store
